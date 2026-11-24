@@ -1,1 +1,2 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whxcode&show_icons=true&theme=radical)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
